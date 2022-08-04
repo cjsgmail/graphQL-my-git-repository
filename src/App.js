@@ -54,7 +54,7 @@ function App() {
         {repositories ? (
           <Repositories repositories={repositories} />
         ) : (
-          <div>loding...</div>
+          <div>loding..</div>
         )}
       </div>
     </div>
